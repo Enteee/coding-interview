@@ -1,9 +1,8 @@
-#!/usr/bin/env python3
-# TODO: Fix, document and maybe refactor this so that this runs in python 3.
+from random import randint
 
-def get_next_random():
-    return '.'.join(
-        str(randint(1,255)) for i in xrange(4)
-    )
+def get_random_ipv4() -> str:
+    """Returns a random IPv4 address string."""
+    return ".".join(str(randint(0, 255)) for i in range(4))
 
-print(get_next_random())
+if __name__ == "__main__":
+    print(get_random_ipv4())
