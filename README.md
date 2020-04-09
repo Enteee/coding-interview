@@ -15,8 +15,8 @@ finish.
 * Time: 30 minutes
 * Allowed: Everything!
 * Required on your side:
-  * (_python only_) Python > 3
-  * (_JavaScript only_) node.js > 12 (ECMAScript 6) or use [es6console.com](https://es6console.com/)
+  * (_Python_) Python > 3
+  * (_JavaScript_) node.js > 12 (ECMAScript 6) or use [es6console.com](https://es6console.com/)
   * Git > 2.0
   * Skype (not Skype for business)
   * Headset
