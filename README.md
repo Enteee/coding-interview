@@ -15,7 +15,8 @@ finish.
 * Time: 30 minutes
 * Allowed: Everything!
 * Required on your side:
-  * Python > 3
+  * (_python only_) Python > 3
+  * (_JavaScript only_) node.js > 12 (ECMAScript 6) or use [es6console.com](https://es6console.com/)
   * Git > 2.0
   * Skype (not Skype for business)
   * Headset
@@ -38,7 +39,14 @@ Use git to clone the repository from [GitHub `Enteee/coding-interview`](https://
 
 ### Task 2
 
-Resolve the TODO in [task.py](./task.py)
+Resolve the TODO in:
+
+* (python) [task.py](./task.py)
+* (JavaScript): [task.js](./task.js)
+
+Hint:
+  * (python) https://www.guru99.com/python-2-vs-python-3.html
+  * (JavaScript) http://es6-features.org
 
 ### Task 3
 
