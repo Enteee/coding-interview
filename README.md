@@ -41,12 +41,12 @@ Use git to clone the repository from [GitHub `Enteee/coding-interview`](https://
 
 Resolve the TODO in:
 
-* (python) [task.py](./task.py)
+* (_Python_) [task.py](./task.py)
 * (JavaScript): [task.js](./task.js)
 
 Hint:
-  * (python) https://www.guru99.com/python-2-vs-python-3.html
-  * (JavaScript) http://es6-features.org
+  * (_Python_) https://www.guru99.com/python-2-vs-python-3.html
+  * (_JavaScript_) http://es6-features.org
 
 ### Task 3
 
