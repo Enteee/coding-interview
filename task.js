@@ -1,4 +1,4 @@
-#!/usr/bin/env ndoe
+#!/usr/bin/env node
 // TODO: Fix, document and maybe refactor this so that this runs under ECMAScript5
 
 function getNextRandom(){
