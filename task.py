@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# TODO: Fix, document and maybe refactor this so that this runs in python 3.
+# TODO: Fix, document, test and maybe refactor this so that this runs in python 3.
 
 def get_next_random():
     return '.'.join(
