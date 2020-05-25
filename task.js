@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// TODO: Fix, document and maybe refactor this so that this runs under ECMAScript5
+// TODO: Fix, document, test and maybe refactor this so that this runs under ECMAScript5
 
 function getNextRandom(){
     x1 = Math.floor(Math.random() * 255) + 1;
